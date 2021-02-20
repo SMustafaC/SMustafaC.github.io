@@ -1,0 +1,112 @@
+#title{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+
+.navbar{
+    margin-top: 75px;
+}
+/*
+Change bg when scroll
+ */
+.navbar.bg-light{
+    background: whitesmoke !important;
+}
+
+.navbar.bg-light.scrolled{
+    background: white !important;
+}
+
+/*
+End bg scrolled
+*/
+.card-deck{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.card-group{
+    margin-top: 50px;
+    margin-bottom: 180px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+body{
+    background-image: url("./resources/imgs/bg.jpg");
+}
+
+.sticker1{
+    float: left;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+.sticker2{
+    float: right;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.sticker3{
+    float: right;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+.sticker6{
+    float: right;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.sticker4{
+    float: right;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+.sticker5{
+    float: left;
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+#oc{
+    z-index:999;
+    margin: 50px 0px 50px 20px;
+    width:100px;
+    height: 50px;
+}
+#oc2{
+    z-index:999;
+    margin: 50px 0px 50px 20px;
+    width:100px;
+    height: 50px;
+}
+#xd{
+    z-index:999;
+    margin: 170px 0px 0px -150px;
+    width:100px;
+    height: 50px;
+}
+
+#xd2{
+    z-index:999;
+    margin: 170px 60px 0px -140px;
+    width:100px;
+    height: 50px;
+}
