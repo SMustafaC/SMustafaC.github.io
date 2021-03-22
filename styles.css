@@ -7,11 +7,12 @@
 .navbar{
     margin-top: 75px;
 }
+
 /*
 Change bg when scroll
  */
 .navbar.bg-light{
-    background: whitesmoke !important;
+    background: lightgrey !important;
 }
 
 .navbar.bg-light.scrolled{
@@ -28,7 +29,7 @@ End bg scrolled
 
 .card-group{
     margin-top: 50px;
-    margin-bottom: 180px;
+    margin-bottom: 80px;
 }
 
 .card-title{
