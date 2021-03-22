@@ -100,14 +100,14 @@ body{
 }
 #xd{
     z-index:999;
-    margin: 170px 0px 0px -150px;
+    margin: 170px 0px 0px -160px;
     width:100px;
     height: 50px;
 }
 
 #xd2{
     z-index:999;
-    margin: 170px 60px 0px -140px;
+    margin: 170px 60px 0px -160px;
     width:100px;
     height: 50px;
 }
