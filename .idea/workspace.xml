@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442cb327-ef52-4cbc-a387-37a5c137070c" name="Default Changelist" comment="webpage">
-      <change afterPath="$PROJECT_DIR$/resources/pdfs/formaCorrectaDisposiciónMedicamentos.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/pdfs/impactoAmbiental.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/pdfs/impactoFormaIncorrectaDisposiciónMedicamentos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,15 +61,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources\imgs" />
-      <recent name="C:\Users\Asus\WebstormProjects" />
-      <recent name="C:\Users\Asus\WebstormProjects\paginaRichi" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources\pdfs" />
       <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources\imgs" />
       <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\WebstormProjects\paginaRichi" />
+      <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources\imgs" />
+      <recent name="C:\Users\Asus\WebstormProjects" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -98,7 +95,8 @@
       <workItem from="1613077928784" duration="1250000" />
       <workItem from="1613835160829" duration="10990000" />
       <workItem from="1613860995885" duration="2080000" />
-      <workItem from="1616448288259" duration="5389000" />
+      <workItem from="1616448288259" duration="6221000" />
+      <workItem from="1616623460671" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="webpage">
       <created>1613862273163</created>
@@ -135,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616449730496</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="webpage">
+      <created>1616453893205</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616453893205</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +156,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="webpage" />
@@ -177,10 +183,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613861192404" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1616449741335">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1616453897254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616449741335" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616453897254" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1616449144133">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
