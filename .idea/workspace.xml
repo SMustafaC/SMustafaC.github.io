@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="442cb327-ef52-4cbc-a387-37a5c137070c" name="Default Changelist" comment="webpage" />
+    <list default="true" id="442cb327-ef52-4cbc-a387-37a5c137070c" name="Default Changelist" comment="webpage">
+      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/info2.html" beforeDir="false" afterPath="$PROJECT_DIR$/info2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/pdfs/pdf2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resources/pdfs/CARTILLA DE AUTOMEDICACION.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,15 +60,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Asus\WebstormProjects\paginaRichi" />
-      <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources\imgs" />
-      <recent name="C:\Users\Asus\WebstormProjects" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources\pdfs" />
       <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources\imgs" />
       <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\WebstormProjects\paginaRichi" />
+      <recent name="C:\Users\Asus\WebstormProjects\paginaRichi\resources\imgs" />
+      <recent name="C:\Users\Asus\WebstormProjects" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,6 +97,7 @@
       <workItem from="1616448288259" duration="6221000" />
       <workItem from="1616623460671" duration="1111000" />
       <workItem from="1617468878775" duration="1715000" />
+      <workItem from="1617491476612" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="webpage">
       <created>1613862273163</created>
@@ -173,10 +178,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="webpage" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613837842155">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617491684485">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1613837842155" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1617491684485" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1613862154019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
